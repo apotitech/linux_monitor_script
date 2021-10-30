@@ -1,9 +1,9 @@
                   ####################################################################################################
-                  #                                        linux_monitor.sh                                        #
-                  # Written for the post www.tecmint.com/linux-server-health-monitoring-script/      #
-                  # If any bug, report us in the link below                                                          #
+                  #                                        Linux_monitor.sh                                          #
+                  # Written to check linux-server-health-monitoring-script/                                          #
+                  # If any bug, report here                                                                          #
                   # Free to use/edit/distribute the code below by                                                    #
-                  # giving proper credit to Tecmint.com and Author                                                   #
+                  #                                                                                                  #
                   #                                                                                                  #
                   ####################################################################################################
 #! /bin/bash
